@@ -1,5 +1,8 @@
 # clireadme
 
+> [!WARNING]
+> **Deprecated**. Use [docsme](https://github.com/szkiba/docsme) instead.
+
 A small library that helps to update the documentation in the README file of [cobra](https://github.com/spf13/cobra)-based CLI tools.
 
 ## Usage
